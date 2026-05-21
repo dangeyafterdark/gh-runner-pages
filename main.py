@@ -45,7 +45,7 @@ def parse_labels_links(text):
 def generate_md_file(labels, links):
     text = ""
     i = 0
-    with open("page.md", "w") as f:
+    with open("index.md", "w") as f:
         f.write("## GitHub-hosted Runner Images\n")
         f.write("\n")
         for os in labels.keys():
@@ -71,6 +71,7 @@ def generate_tools_md(links):
         text = text[text.find("***") :]
 
         with filepath.open("w", encoding="utf-8") as f:
+            f.write("[go to HOME](/index.md)\n")
             f.write(text)
 
     return
