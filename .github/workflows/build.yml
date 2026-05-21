@@ -27,7 +27,9 @@ jobs:
 
       - name: Detect changes
         id: detect
-        run: echo "changes=$( git status -s )" >> "$GITHUB_OUTPUT"
+        run: |
+          MOD=$( git status -s )
+          echo "changes=${MOD:+true}" >> "$GITHUB_OUTPUT"
 
       - name: Commit changes
         if: steps.detect.outputs.changes
