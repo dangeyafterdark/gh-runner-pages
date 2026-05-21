@@ -1,3 +1,4 @@
+[go to HOME](/index.md)
 ***
 # Windows Server 2022
 - OS Version: 10.0.20348 Build 5020

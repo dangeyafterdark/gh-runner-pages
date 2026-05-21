@@ -1,3 +1,4 @@
+[go to HOME](/index.md)
 ***
 # Ubuntu 24.04
 - OS Version: 24.04.4 LTS

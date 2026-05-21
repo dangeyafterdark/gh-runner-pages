@@ -1,3 +1,4 @@
+[go to HOME](/index.md)
 ***
 # Ubuntu 22.04
 - OS Version: 22.04.5 LTS
