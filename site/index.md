@@ -1,6 +1,8 @@
 ## GitHub-hosted Runner Images
 
 ### ubuntu
+- [ubuntu-26.04]
+- [ubuntu-26.04-arm64]
 - [ubuntu-24.04]
 - [ubuntu-24.04-arm64]
 - [ubuntu-22.04]
@@ -11,6 +13,7 @@
 - [windows-2025-vs2026]
 - [windows-2022]
 - [windows-11-arm64]
+- [windows-11-vs2026-arm64]
 ### macOS
 - [macOS-14]
 - [macOS-14-arm64]
@@ -19,6 +22,8 @@
 - [macOS-26]
 - [macOS-26-arm64]
 
+[ubuntu-26.04]: /images/ubuntu/Ubuntu2604-Readme.md
+[ubuntu-26.04-arm64]: /images/ubuntu/Ubuntu2604-Arm64-Readme.md
 [ubuntu-24.04]: /images/ubuntu/Ubuntu2404-Readme.md
 [ubuntu-24.04-arm64]: /images/ubuntu/Ubuntu2404-Arm64-Readme.md
 [ubuntu-22.04]: /images/ubuntu/Ubuntu2204-Readme.md
@@ -28,6 +33,7 @@
 [windows-2025-vs2026]: /images/windows/Windows2025-VS2026-Readme.md
 [windows-2022]: /images/windows/Windows2022-Readme.md
 [windows-11-arm64]: /images/windows/Windows11-Arm64-Readme.md
+[windows-11-vs2026-arm64]: /images/windows/Windows11-VS2026-Arm64-Readme.md
 [macOS-14]: /images/macos/macos-14-Readme.md
 [macOS-14-arm64]: /images/macos/macos-14-arm64-Readme.md
 [macOS-15]: /images/macos/macos-15-Readme.md
