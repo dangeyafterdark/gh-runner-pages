@@ -9,7 +9,6 @@
 - [ubuntu-22.04-arm64]
 - [ubuntu-slim]
 ### windows
-- [windows-2025]
 - [windows-2025-vs2026]
 - [windows-2022]
 - [windows-11-arm64]
@@ -29,7 +28,6 @@
 [ubuntu-22.04]: /images/ubuntu/Ubuntu2204-Readme.md
 [ubuntu-22.04-arm64]: /images/ubuntu/Ubuntu2204-Arm64-Readme.md
 [ubuntu-slim]: /images/ubuntu-slim/ubuntu-slim-Readme.md
-[windows-2025]: /images/windows/Windows2025-Readme.md
 [windows-2025-vs2026]: /images/windows/Windows2025-VS2026-Readme.md
 [windows-2022]: /images/windows/Windows2022-Readme.md
 [windows-11-arm64]: /images/windows/Windows11-Arm64-Readme.md
