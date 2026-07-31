@@ -3,7 +3,7 @@
 # macOS 15
 - OS Version: macOS 15.7.7 (24G720)
 - Kernel Version: Darwin 24.6.0
-- Image Version: 20260715.0340.1
+- Image Version: 20260720.0353.1
 
 ## Installed Software
 
@@ -23,7 +23,7 @@
 - Perl 5.42.2
 - PHP 8.5.8
 - Python3 3.14.6
-- Ruby 3.3.11
+- Ruby 3.3.12
 
 ### Package Management
 - Bundler 4.0.16
@@ -33,9 +33,9 @@
 - Homebrew 6.0.11
 - NPM 10.9.8
 - Pip3 26.1.2 (python 3.14)
-- Pipx 1.15.0
+- Pipx 1.16.0
 - RubyGems 4.0.16
-- Vcpkg 2026 (build from commit 8e8dfb4ba4)
+- Vcpkg 2026 (build from commit a2e9344364)
 - Yarn 1.22.22
 
 ### Project Management
@@ -60,21 +60,21 @@
 - jq 1.8.2
 - OpenSSL 1.1.1w  11 Sep 2023
 - Packer 1.15.4
-- pkgconf 3.0.2
+- pkgconf 3.0.3
 - Unxip 3.3
 - yq 4.53.3
 - zstd 1.5.7
 - Ninja 1.13.2
 
 ### Tools
-- AWS CLI 2.35.23
+- AWS CLI 2.36.2
 - AWS SAM CLI 1.163.0
 - AWS Session Manager CLI 1.2.835.0
 - Azure CLI 2.88.0
 - Azure CLI (azure-devops) 1.0.6
 - Bicep CLI 0.45.15
 - Cmake 4.4.0
-- CodeQL Action Bundle 2.26.0
+- CodeQL Action Bundle 2.26.1
 - Fastlane 2.237.0
 - SwiftFormat 0.62.1
 - Xcbeautify 3.2.1
@@ -87,11 +87,11 @@
 ### Browsers
 - Safari 26.5.2 (20624.2.5.18.7)
 - SafariDriver 26.5.2 (20624.2.5.18.7)
-- Google Chrome 150.0.7871.125
+- Google Chrome 150.0.7871.129
 - Google Chrome for Testing 150.0.7871.124
 - ChromeDriver 150.0.7871.124
-- Microsoft Edge 150.0.4078.65
-- Microsoft Edge WebDriver 150.0.4078.65
+- Microsoft Edge 150.0.4078.83
+- Microsoft Edge WebDriver 150.0.4078.83
 - Mozilla Firefox 152.0.6
 - geckodriver 0.37.0
 - Selenium server 4.46.0
@@ -115,7 +115,7 @@
 
 #### Ruby
 - 3.2.11
-- 3.3.11
+- 3.3.12
 - 3.4.10
 - 4.0.6
 
@@ -136,9 +136,9 @@
 - 1.26.5
 
 ### Rust Tools
-- Cargo 1.97.0
-- Rust 1.97.0
-- Rustdoc 1.97.0
+- Cargo 1.97.1
+- Rust 1.97.1
+- Rustdoc 1.97.1
 - Rustup 1.29.0
 
 #### Packages
